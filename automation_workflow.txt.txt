@@ -1,0 +1,28 @@
+Here is a proposed conceptual workflow blueprint for an **AI Research Paper Reading Assistant**. 
+
+> **Important Note:** This table represents a **proposed workflow example and conceptual design** for how students or educators can structure their paper reading process using AI prompts. It is **not** a fully automated software application, and no automated program or script was executed.
+
+---
+
+### **AI Research Paper Reading Assistant: Proposed Workflow**
+
+| Step Number & Name | Input | Action | Output |
+| :--- | :--- | :--- | :--- |
+| **1. Input** | Research paper PDF | The student uploads or pastes the PDF research paper into the workspace. | Raw PDF file ready for processing. |
+| **2. Extract** | Uploaded PDF file | Extract readable text, section headings, and metadata from the PDF pages. | Clean, unformatted text string of the paper. |
+| **3. Summarize** | Extracted paper text | Process the text using structural prompts to identify the research aim, method, findings, and limitations. | A structured 4-part paper summary. |
+| **4. Explain** | Extracted paper text | Scan the text for complex jargon, methods, and acronyms, then generate simple explanations and examples. | A 5 to 10 term beginner-friendly glossary. |
+| **5. Compare** | New paper summary + existing library of paper summaries | Cross-reference the new paper's methods and findings against previously read papers in the notebook. | A comparative analysis highlighting key similarities and differences. |
+| **6. Verify** | AI-generated summary, comparison, & original paper text | Prompt the student to fact-check the generated findings, numbers, and citations against the original PDF. | A verified error-checking log confirming or correcting AI claims. |
+| **7. Output** | Verified summary, glossary, comparison, & verification log | Assemble all human-verified components into a final, clean study document. | A complete, high-trust study guide and literature review report. |
+
+---
+
+### **How Students Can Use This Workflow Today**
+Students do not need specialized software to use this workflow. You can manually run this sequence using standard LLMs by combining the prompt toolkit provided in our earlier step:
+1. **Pass the text** into your LLM using **Prompt 2** (Extract Aim, Method, Findings, Limitations).
+2. **Generate your glossary** using **Prompt 4** (Explain Technical Terms).
+3. **Compare across papers** using **Prompt 3** (Compare Research Papers).
+4. **Fact-check the output** using **Prompt 5** (Fact-Check AI Summary) to ensure full accuracy before submitting or studying.
+
+💡 Would you like me to turn this workflow blueprint into a structured diagram or flowchart image that you can include in a presentation or assignment?

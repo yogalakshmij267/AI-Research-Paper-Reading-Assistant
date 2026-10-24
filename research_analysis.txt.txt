@@ -1,0 +1,105 @@
+### **Paper 1: Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review**
+
+#### **1. Exact Title and Authors**
+* **Title:** Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review.
+* **Authors:** Wiston Forero-Corba and Francisca Negre Bennasar.
+
+#### **2. Research Aim**
+* **Core Aim:** The main objective of this study was to identify opportunities for improving teaching-learning processes and educational management across all educational levels through the application of machine learning (ML) and artificial intelligence (AI).
+* **Guided Questions:** The authors structured their review around five specific research questions examining the educational levels studied, geographic distribution, key subjects/frequent words, specific ML techniques used, and general outcomes of implementing these technologies.
+
+#### **3. Research Method**
+* **Review Protocol:** The researchers conducted a systematic literature review following the **PRISMA 2020 statement**.
+* **Data Sources:** They searched two major scientific databases—**Web of Science (WoS)** and **Scopus**—for peer-reviewed studies published between 2021 and 2023.
+* **Selection Process:** After applying inclusion and exclusion criteria, they selected and analyzed a final sample of **55 high-impact journal articles**.
+* **Data Analysis:** The study categorized machine learning algorithms into learning paradigms (supervised, unsupervised, semi-supervised, and reinforcement learning) and analyzed thematic keywords using network maps and word clouds.
+
+#### **4. Main Findings**
+* **Technique and Country Coverage:** The reviewed articles covered **33 distinct ML and AI techniques** implemented across **38 countries**, with the United States leading in publication output.
+* **Shift to K-12 Education:** Unlike earlier literature that focused predominantly on higher education, **74.6% of the analyzed studies were conducted in primary and secondary schools**.
+* **Popular ML Techniques:** Supervised learning was the most widely used approach, with **Random Forest (RF)**, **Decision Tree (DT)**, and **K-nearest neighbors (KNN)** being the most common algorithms.
+* **Educational Applications:** Practical applications focused heavily on early detection of student academic performance, predicting school dropout risks, building computational thinking, integrating virtual robotics, and managing educational systems.
+* **Need for Educator Training:** The paper emphasized a pressing need to enhance **Teachers' Digital Competence (TDC)** to ensure successful technology implementation.
+
+#### **5. Limitations**
+* **Language Constraint:** The search was restricted exclusively to articles written in English, potentially omitting relevant research published in other languages.
+* **Database Scope:** The search was limited to Web of Science and Scopus, excluding publications indexed solely in other academic databases.
+* **Search Term Equation:** The search query did not include explicit keywords such as "K-12", "higher education", or "vocational training", which may have left out some relevant studies.
+
+#### **6. Technical Terms & Simple Definitions**
+* **Machine Learning (ML):** A branch of artificial intelligence where computer programs automatically learn patterns from data to make decisions or predictions without being manually programmed for every rule.
+* **Supervised Learning:** A type of machine learning where an algorithm is trained using a labeled dataset (data that already includes the correct answers or outcomes).
+* **Teachers' Digital Competence (TDC):** The combination of knowledge, skills, and attitudes that educators need to effectively and responsibly integrate digital technologies into their teaching practices.
+
+---
+
+### **Paper 2: Artificial intelligence in higher education: the state of the field**
+
+#### **1. Exact Title and Authors**
+* **Title:** Artificial intelligence in higher education: the state of the field.
+* **Authors:** Helen Crompton and Diane Burke.
+
+#### **2. Research Aim**
+* **Core Aim:** To examine existing research from 2016 through the end of 2022 to provide an up-to-date, systematic overview of how AI is being utilized within higher education (HE) settings.
+* **Guided Questions:** The review answered three overarching questions: geographical locations and chronological publication trends; author departmental affiliations, academic levels, and subject areas; and intended users alongside primary applications of AI.
+
+#### **3. Research Method**
+* **Review Protocol:** The authors utilized **PRISMA principles** and the **PRISMA-P protocol** to guide their search and extraction process.
+* **Data Sources:** They conducted electronic searches across databases (EBSCOhost, Wiley Online Library, JSTOR, ScienceDirect, and Web of Science) and performed manual searches in three specialized AIEd journals for peer-reviewed articles published between 2016 and 2022.
+* **Selection Process:** Out of 371 identified records, **138 peer-reviewed articles** satisfied all inclusion criteria and were analyzed.
+* **Coding Approach:** Data were synthesized using a combination of deductive (*a priori*) coding and inductive (*grounded*) qualitative coding to derive main usage themes.
+
+#### **4. Main Findings**
+* **Rapid Growth:** Research publications on AI in higher education grew dramatically, with the number of studies in **2021 and 2022 rising two- to three-fold** compared to previous years.
+* **Geographic Leadership:** Publication leadership shifted, with **China overtaking the United States** as the country producing the highest volume of AIEd studies in higher education.
+* **Educator Involvement:** Authors affiliated with **Education departments became the most dominant contributor group (28%)**, reversing a historical lack of educational perspectives in AI research.
+* **Target Audience and Disciplines:** **Undergraduate students were the most studied group (72%)**, with **language learning** (writing, reading, vocabulary) standing out as the most common subject domain.
+* **Intended Users:** AI tools were designed primarily for **students (72%)**, followed by **instructors (17%)** and **educational managers (11%)**.
+* **Five Key AI Uses:** Grounded coding revealed five primary functional uses of AI in higher education: (1) Assessment/Evaluation, (2) Predicting performance/dropout, (3) AI Assistants/Chatbots, (4) Intelligent Tutoring Systems (ITS), and (5) Managing Student Learning.
+
+#### **5. Limitations**
+* **Source Restriction:** The review strictly included peer-reviewed journal articles, excluding conference proceedings, books, and gray literature (like blogs or reports).
+* **Language Limitation:** The search included only English-language publications.
+* **Absence of Empirical ChatGPT Studies:** Empirical studies evaluating ChatGPT were not present in the dataset because ChatGPT was publicly released in late 2022 and published peer-reviewed studies had not cleared the publishing pipeline within the review timeframe.
+
+#### **6. Technical Terms & Simple Definitions**
+* **Artificial Intelligence in Education (AIEd):** The practical application of computer systems capable of performing human-like cognitive tasks (such as reasoning, learning, and self-correction) to support learning and teaching.
+* **Intelligent Tutoring System (ITS):** An adaptive software program that uses AI to customize instructional materials, activities, and step-by-step guidance based on an individual student's learning needs.
+* **Grounded Coding:** A qualitative research technique where descriptive codes, themes, and categories are generated directly from analyzing the source data rather than applying pre-made templates.
+
+---
+
+### **Paper 3: A systematic literature review of empirical research on ChatGPT in education**
+
+#### **1. Exact Title and Authors**
+* **Title:** A systematic literature review of empirical research on ChatGPT in education.
+* **Authors:** Yazid Albadarin, Mohammed Saqr, Nicolas Pope, and Markku Tukiainen.
+
+#### **2. Research Aim**
+* **Core Aim:** To systematically gather and analyze empirical research published on ChatGPT in educational contexts from 2022 up to April 10, 2023.
+* **Guided Questions:** The review addressed two main questions: (1) how students and teachers initially attempted to utilize ChatGPT in education, and (2) what primary empirical findings, benefits, and challenges resulted from its integration.
+
+#### **3. Research Method**
+* **Review Protocol:** The study adhered to the **PRISMA 2020 guidelines** and Okoli's framework for standalone systematic literature reviews.
+* **Data Sources:** Literature searches were conducted across five databases (**Dimensions.ai**, **Lens.org**, **Scopus**, **Web of Science**, and **ERIC**) between April 3 and April 10, 2023, using the search string `("ChatGPT" AND "Education")`.
+* **Selection Process:** From 276 total retrieved records, duplicate removal and strict full-text screening narrowed the sample down to **14 eligible empirical studies**.
+* **Data Synthesis:** Extracted data were compiled into spreadsheets and categorized using Creswell's qualitative coding techniques to identify key themes regarding usage and impacts.
+
+#### **4. Main Findings**
+* **Student Uses:** Learners utilized ChatGPT as a **virtual intelligent assistant** for instant feedback and on-demand explanations; as a **writing and language assistant** to generate ideas, translate, paraphrase, compose essays, and check grammar; and as an aid for **personalized learning** and homework understanding.
+* **Teacher Uses:** Educators used ChatGPT to generate lesson plans, create quizzes, source teaching resources, and improve productivity.
+* **Risks and Drawbacks:** Excessive use of ChatGPT was found to potentially **harm students' critical thinking**, problem-solving abilities, creativity, and peer collaboration. Furthermore, ChatGPT can generate **false or inaccurate information ("hallucinations")**, threaten **academic integrity** through undetected plagiarism, and complicate traditional student assessment methods.
+* **Recommendations:** The authors highlighted an urgent need for clear institutional guidelines, ethical usage policies, structured training for students and teachers, and redesigned assessment methods that focus on understanding rather than final written text.
+
+#### **5. Limitations**
+* **Small Sample Size:** Only 14 empirical studies met the inclusion criteria due to the extreme novelty of ChatGPT at the time of data collection.
+* **Model Versions:** The reviewed literature evaluated early versions of ChatGPT (GPT-3 and GPT-3.5); findings might differ for updated models such as GPT-4.
+* **Timeframe and Language:** The search was limited to English-language publications indexed prior to April 10, 2023.
+* **Lack of Longitudinal Data:** The existing studies captured only initial reactions and short-term uses, lacking long-term evidence regarding ChatGPT's lasting impact on educational outcomes.
+
+#### **6. Technical Terms & Simple Definitions**
+* **Large Language Model (LLM):** An advanced AI system trained on vast datasets of human text, enabling it to understand, process, and generate natural, human-like responses to prompt queries.
+* **Artificial Hallucination:** A flaw in generative AI models where the system generates completely incorrect or made-up information while presenting it confidently as fact.
+* **PRISMA 2020:** A standardized set of reporting guidelines and flowcharts that researchers follow to make systematic literature reviews thorough, transparent, and reproducible.
+
+💡 Would you like me to create a tailored summary report or flashcard deck to help you review these findings for your studies?

@@ -1,0 +1,124 @@
+Here is a **reusable prompt toolkit** designed for undergraduate students reading AI research papers. You can copy and paste any of these prompts directly into an AI assistant whenever you need help analyzing academic papers.
+
+---
+
+### **Prompt 1: Summarize a Research Paper**
+
+```text
+Please provide a clear, beginner-friendly summary of the following research paper:
+
+[PASTE PAPER TEXT HERE]
+
+Follow these rules strictly:
+1. Give a 3 to 4 sentence overview of what the paper is about in simple English.
+2. Highlight 3 key points or takeaways using short bullet points.
+3. Use ONLY information directly stated in the provided paper text. Do NOT invent facts, statistics, quotes, or citations.
+4. If a key topic or detail is missing or unclear in the paper, explicitly write: "Not stated in the provided source."
+5. Include section names, paragraph numbers, or direct quotes as evidence for each major claim.
+```
+
+---
+
+### **Prompt 2: Extract Aim, Method, Findings, and Limitations**
+
+```text
+Analyze the following research paper and extract its core structural components:
+
+[PASTE PAPER TEXT HERE]
+
+Please break down your response into these exact sections:
+1. Paper Title and Authors
+2. Research Aim (What did the researchers want to find out?)
+3. Research Method (How did they conduct the study, including sample size and tools used?)
+4. Main Findings (What were their main discoveries or statistics?)
+5. Limitations (What could the study not establish or what constraints did they face?)
+
+Rules to follow:
+- Base every single statement strictly on the text provided above.
+- Do NOT guess, extrapolate, or invent details.
+- If any of these sections are missing or not clearly stated in the text, write: "Not stated in the available source."
+- Provide exact page numbers, section headers, or short quotes from the paper to back up each item.
+- Use simple, plain English that an undergraduate student can easily understand.
+```
+
+---
+
+### **Prompt 3: Compare Two or More Research Papers**
+
+```text
+Compare the following research papers:
+
+--- PAPER 1 ---
+[PASTE PAPER 1 TEXT HERE]
+
+--- PAPER 2 ---
+[PASTE PAPER 2 TEXT HERE]
+
+--- PAPER 3 (Optional) ---
+[PASTE PAPER 3 TEXT HERE OR REMOVE THIS SECTION]
+
+Please provide:
+1. A Literature Review Table comparing the papers across these columns: Paper Title, Core Focus/Aim, Methodology, Main Findings, and Key Limitations.
+2. Three major SIMILARITIES between the papers.
+3. Three major DIFFERENCES between the papers.
+
+Strict rules:
+- Base all comparisons ONLY on the provided paper texts. Do NOT bring in outside knowledge or invent comparisons.
+- Clearly attribute findings to the specific paper title/author.
+- If a paper does not mention a specific detail compared in the table, write "Not stated in source."
+- Include source citations or direct quotes next to factual claims.
+- Write in beginner-friendly English.
+```
+
+---
+
+### **Prompt 4: Explain Technical Terms in Simple English**
+
+```text
+Help me understand the technical jargon in the following research paper:
+
+[PASTE PAPER TEXT HERE]
+
+Identify 5 to 10 difficult technical terms, acronyms, or methods used in this paper. For each term, provide:
+1. Technical Term (exact term used in the text)
+2. Simple Definition (explain it in plain English suitable for an undergraduate beginner)
+3. Educational or Real-World Example (a short, concrete example showing how it applies)
+4. Paper Context (quote the sentence from the paper where this term appears and note its section/page reference)
+
+Rules:
+- Select terms that actually appear in the text above. Do NOT invent or add terms not found in the paper.
+- If the paper's usage or definition of a term is vague or incomplete, state: "The text does not fully explain this term."
+- Keep explanations simple, clear, and free of unnecessary jargon.
+```
+
+---
+
+### **Prompt 5: Fact-Check an AI Summary Against the Original Paper**
+
+```text
+I want you to act as an error-checker. Compare the AI-generated summary below against the original research paper source text.
+
+--- ORIGINAL RESEARCH PAPER ---
+[PASTE ORIGINAL PAPER TEXT HERE]
+
+--- AI SUMMARY TO CHECK ---
+[PASTE AI-GENERATED SUMMARY HERE]
+
+Create an Error-Checking Table with these 5 columns:
+1. Claim Made in Summary
+2. Evidence in Original Paper
+3. Verification Status (Mark as: Verified, Incorrect, or Unclear)
+4. Explanation
+5. Correction Needed (If Incorrect)
+
+Rules:
+- Verify every single statistic, sample size, claim, author name, and conclusion.
+- Do NOT invent errors if the summary is accurate. If no errors are found, say so honestly.
+- Mark a claim as "Unclear" if the original text does not provide enough information to confirm or disprove it.
+- Cite specific sections, page numbers, or exact quotes from the original paper for every check.
+- Use plain, simple English.
+```
+
+---
+
+💡 Would you like me to compile these prompts into a formatted study guide document or PDF cheat sheet for your classes?

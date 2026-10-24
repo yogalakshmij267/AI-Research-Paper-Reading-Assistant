@@ -1,0 +1,125 @@
+Here is a glossary of **15 key technical terms** selected from across the three research papers, defined in beginner-friendly English with educational examples.
+
+---
+
+### **1. Supervised Learning**
+* **Technical Term:** Supervised Learning.
+* **Simple English Meaning:** A type of machine learning where an AI model learns from a labeled dataset containing both the input information and the correct answers.
+* **Educational Example:** Training an algorithm using past student records labeled as "pass" or "fail" so it can learn to predict whether new students might need extra academic support.
+* **Discussed In:** *Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review* (Forero-Corba & Negre Bennasar).
+
+---
+
+### **2. Random Forest (RF)**
+* **Technical Term:** Random Forest (RF).
+* **Simple English Meaning:** A popular machine learning technique that combines predictions from multiple "decision trees" to make a more accurate and reliable final decision.
+* **Educational Example:** Combining several factors—such as test marks, class attendance, and homework submission rates—to accurately predict a student's final grade or dropout risk.
+* **Discussed In:** *Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review* (Forero-Corba & Negre Bennasar).
+
+---
+
+### **3. Unsupervised Learning**
+* **Technical Term:** Unsupervised Learning.
+* **Simple English Meaning:** A machine learning approach where an AI program analyzes unlabeled data to find hidden patterns, clusters, or structures on its own without human guidance.
+* **Educational Example:** Grouping students into different learning style categories based purely on how they navigate an online study platform.
+* **Discussed In:** *Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review* (Forero-Corba & Negre Bennasar).
+
+---
+
+### **4. Reinforcement Learning (RL)**
+* **Technical Term:** Reinforcement Learning (RL).
+* **Simple English Meaning:** A learning method where an AI agent learns by interacting with its environment, receiving rewards for good actions and penalties for mistakes to improve over time.
+* **Educational Example:** Programming educational robots (such as virtual robots in school workshops) that learn how to complete tasks through trial-and-error feedback.
+* **Discussed In:** *Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review* (Forero-Corba & Negre Bennasar).
+
+---
+
+### **5. Teachers' Digital Competence (TDC)**
+* **Technical Term:** Teachers' Digital Competence (TDC).
+* **Simple English Meaning:** The essential digital skills, knowledge, and ethical understanding that educators need to successfully integrate technology and AI into their teaching practices.
+* **Educational Example:** A teacher attending training workshops to learn how to ethically use automated grading and AI tools in their classroom.
+* **Discussed In:** *Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review* (Forero-Corba & Negre Bennasar).
+
+---
+
+### **6. Artificial Intelligence in Education (AIEd)**
+* **Technical Term:** Artificial Intelligence in Education (AIEd).
+* **Simple English Meaning:** The field focused on using computer systems capable of human-like tasks (such as learning, reasoning, and adapting) to improve teaching, learning, and school management.
+* **Educational Example:** Deploying smart campus software that assists with student enrollment, provides personalized tutoring, and tracks learning outcomes.
+* **Discussed In:** *Artificial intelligence in higher education: the state of the field* (Crompton & Burke) (also noted in Albadarin et al.).
+
+---
+
+### **7. Intelligent Tutoring System (ITS)**
+* **Technical Term:** Intelligent Tutoring System (ITS).
+* **Simple English Meaning:** An adaptive instructional software program that uses AI to customize learning materials, hints, and feedback according to a student's individual pace and needs.
+* **Educational Example:** A computer math program that automatically offers simpler practice problems and step-by-step guidance when a student gets stuck.
+* **Discussed In:** *Artificial intelligence in higher education: the state of the field* (Crompton & Burke).
+
+---
+
+### **8. Learning Analytics**
+* **Technical Term:** Learning Analytics.
+* **Simple English Meaning:** The process of collecting, measuring, and visually displaying data about student interactions to understand and optimize learning environments.
+* **Educational Example:** Generating visual dashboards for teachers that display student discussion board participation and project completion progress.
+* **Discussed In:** *Artificial intelligence in higher education: the state of the field* (Crompton & Burke).
+
+---
+
+### **9. Natural Language Processing (NLP)**
+* **Technical Term:** Natural Language Processing (NLP).
+* **Simple English Meaning:** A branch of AI that allows computers to understand, interpret, translate, and generate human spoken or written language.
+* **Educational Example:** An automated language program that evaluates a student's essay and provides immediate feedback on grammar, vocabulary, and sentence flow.
+* **Discussed In:** *Artificial intelligence in higher education: the state of the field* (Crompton & Burke) (also listed in Albadarin et al.).
+
+---
+
+### **10. Predictive Analytics**
+* **Technical Term:** Predictive Analytics.
+* **Simple English Meaning:** The use of historical data and statistical AI algorithms to forecast future performance, outcomes, or risks.
+* **Educational Example:** Analyzing past course attendance, assignment submissions, and test scores to identify students who may need extra help before failing a course.
+* **Discussed In:** *Artificial intelligence in higher education: the state of the field* (Crompton & Burke).
+
+---
+
+### **11. Large Language Model (LLM)**
+* **Technical Term:** Large Language Model (LLM).
+* **Simple English Meaning:** An advanced AI algorithm trained on massive amounts of text data using artificial neural networks to generate, summarize, and understand human-like responses.
+* **Educational Example:** AI systems like ChatGPT drafting essay outlines, translating foreign texts, or explaining complex concepts to learners.
+* **Discussed In:** *A systematic literature review of empirical research on ChatGPT in education* (Albadarin et al.).
+
+---
+
+### **12. Artificial Hallucination**
+* **Technical Term:** Artificial Hallucination.
+* **Simple English Meaning:** A flaw in generative AI models where the system generates false, inaccurate, or fabricated information while presenting it with complete confidence as if it were fact.
+* **Educational Example:** A chatbot inventing fake book references or incorrect scientific facts when helping a student write a research assignment.
+* **Discussed In:** *A systematic literature review of empirical research on ChatGPT in education* (Albadarin et al.).
+
+---
+
+### **13. Reinforcement Learning from Human Feedback (RLHF)**
+* **Technical Term:** Reinforcement Learning from Human Feedback (RLHF).
+* **Simple English Meaning:** A training technique where human ratings and preferences are used to fine-tune AI models so their outputs become safer, more accurate, and more helpful.
+* **Educational Example:** Human evaluators scoring chatbot answers so the AI learns to provide constructive learning hints rather than giving away exam answers directly.
+* **Discussed In:** *A systematic literature review of empirical research on ChatGPT in education* (Albadarin et al.).
+
+---
+
+### **14. Virtual Intelligent Assistant**
+* **Technical Term:** Virtual Intelligent Assistant.
+* **Simple English Meaning:** An AI digital helper that offers users instant feedback, on-demand answers, and guided task assistance.
+* **Educational Example:** A student asking a chatbot late at night for instant clarification on a confusing homework instruction.
+* **Discussed In:** *A systematic literature review of empirical research on ChatGPT in education* (Albadarin et al.) (also referenced under AI Assistant terms in Crompton & Burke).
+
+---
+
+### **15. PRISMA 2020**
+* **Technical Term:** PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses).
+* **Simple English Meaning:** A standardized set of evidence-based guidelines and flowcharts that researchers follow to conduct thorough, transparent, and reproducible literature reviews.
+* **Educational Example:** Researchers documenting their exact database search formulas, screening steps, and inclusion criteria when compiling educational literature.
+* **Discussed In:** All three uploaded papers follow the PRISMA reporting standard (*Albadarin et al.*, *Crompton & Burke*, and *Forero-Corba & Negre Bennasar*).
+
+---
+
+📚 Would you like me to turn this glossary into a flashcard deck or quiz to help test your understanding of these terms?
